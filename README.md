@@ -5,7 +5,7 @@ src="https://github.com/Ghost3987/DUMP/blob/main/Images/IMG2.jpg" />
 ```
 rm -rf FILE-DUMP
 git clone https://github.com/Ghost3987/FILE-DUMP.git
-cd DUMP
+cd FILE-DUMP
 chmod +x *
 ls
 python FILE-DUMP.py
